@@ -3,7 +3,7 @@
 
 - 🦊 I'm working with [GitLab](https://about.gitlab.com)
 
-- 🌱 I’m currently learning about **leadership and personal development**
+- 🌱 I’m currently learning about **Ruby on Rails, leadership, and personal development**
 
 - 💬 Ask me about **frontend, command-line, and productivity tools**
 
