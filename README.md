@@ -11,6 +11,6 @@
 
 - 🖋️ From time to time I blog at https://ammar.codes/
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aalakkad/](https://www.linkedin.com/in/aalakkad/)
+- 📄 More work related details on LinkedIn [https://www.linkedin.com/in/aalakkad/](https://www.linkedin.com/in/aalakkad/)
 
 <!-- Created with the help of https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
