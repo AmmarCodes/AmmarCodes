@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>
 <h3 align="center">Sr. Frontend Engineer 🎨</h3>
 
-- 🦊 I'm working with [GitLab](https://about.gitlab.com)
+- 🦊 I'm working at [GitLab](https://about.gitlab.com)
 
 - 🌱 I’m currently learning about **Ruby on Rails, leadership, and personal development**
 
