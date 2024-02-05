@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>
-<h3 align="center">Sr. Frontend Engineer 🎨</h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/optimized/16/solid/code-bracket.svg" width="20" height="20" />
+  Sr. Frontend Engineer
+  <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/optimized/24/outline/command-line.svg" width="20" height="20" />
+</h3>
+
+
+> My opinions are my own
+
 
 - 🦊 I'm working at [GitLab](https://about.gitlab.com)
 
