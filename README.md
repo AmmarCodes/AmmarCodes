@@ -21,4 +21,26 @@
 
 - 📄 More work related details on LinkedIn [https://www.linkedin.com/in/aalakkad/](https://www.linkedin.com/in/aalakkad/)
 
-<!-- Created with the help of https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
+## How I Work Best
+
+- Prefer structured agendas over spontaneous calls
+- Context shared in advance (minimal surprises)
+- Time to switch context before deep discussions
+- Space to think before responding to complex questions
+- Async-first communication when possible
+- Written summaries after important decisions
+
+## Collaboration Style
+
+- Tend to notice small details
+- Value honesty and transparency
+- May take me a little time to warm up with new teammates
+- Collaborate best once mutual trust is established
+
+## Ownership & Decision-Making
+
+- Feel accountable for the projects I work on
+- Care about long-term impact, not just delivery
+- Remain invested until the work is stable and reliable
+- Prefer understanding the reasoning behind decisions
