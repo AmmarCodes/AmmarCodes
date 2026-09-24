@@ -9,16 +9,9 @@
 > My opinions are my own
 
 
-- 🦊 I'm working at [GitLab](https://about.gitlab.com)
-
-- 🌱 I’m currently learning about **Ruby on Rails, leadership, and personal development**
-
 - 💬 Ask me about **frontend, command-line, and productivity tools**
-
 - 📫 To reach me send a tweet to [@AmmarCodes](https://twitter.com/AmmarCodes) or **`am.alakkad` @ gmail**
-
 - 🖋️ From time to time I blog at https://ammar.codes/
-
 - 📄 More work related details on LinkedIn [https://www.linkedin.com/in/aalakkad/](https://www.linkedin.com/in/aalakkad/)
 
 
